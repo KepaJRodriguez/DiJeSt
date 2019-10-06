@@ -26,7 +26,7 @@ Finally, we complement the pipeline by offering tutorials for visualizing, prese
 * Sinai Rusinek, project leader
 * Ephraim Berkovitch, lead contributor https://github.com/ephraimberkovitch 
 * Yael Netzer, DICTA, lead contributor 
-* Kepa J. Rodrigues, LOD consultant https://www.xplace.com/il/en/u/keparodriguez
+* Kepa J. Rodriguez, LOD consultant https://www.xplace.com/il/en/u/keparodriguez
 * Raphi Halff, team member
 * Adir Gupte, team member
 * Michel Jalfon, team member
